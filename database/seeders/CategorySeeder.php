@@ -12,6 +12,9 @@ class CategorySeeder extends Seeder
         $categories = [
             'Ikonik Kota',
             'Museum & Edukasi',
+            'Pusat Kebudayaan & Kesenian',
+            'Tempat Hiburan',
+            'Wisata Alam & Hewan',
             'Kuliner Legendaris',
             'Tempat Ibadah Bersejarah',
             'Ruang Publik & Taman',
