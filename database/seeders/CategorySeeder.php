@@ -10,12 +10,14 @@ class CategorySeeder extends Seeder
     public function run()
     {
         $categories = [
-            'Ikonik Kota',
-            'Museum & Edukasi',
+            'Ikon Kota',
+            'Museum, Pusat Kebudayaan & Edukasi',
             'Kuliner Legendaris',
             'Tempat Ibadah Bersejarah',
             'Ruang Publik & Taman',
             'Pusat Belanja & Pasar',
+            'Taman Hiburan',
+            'Wisata Hewan & Alam',
         ];
 
         foreach ($categories as $category) {
